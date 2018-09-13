@@ -1,0 +1,5 @@
+/snap/clion/38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -G "CodeBlocks - Unix Makefiles" /home/tiphaine/Github/R-type
+-- Found SFML .. in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tiphaine/Github/R-type/cmake-build-debug
